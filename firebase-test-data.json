@@ -1,0 +1,11 @@
+{
+  "devices": {
+    "ESP32-LED-001": {
+      "name": "ESP32 LED Controller",
+      "ledState": 0,
+      "status": "offline",
+      "lastSeen": null
+    }
+  },
+  "history": {}
+}
